@@ -35,10 +35,3 @@ The lab is vulnerable due to a logic flaw in its password brute-force protection
    Enter the path to the wordlist file: Path\to\wordlist.txt
 
 
-
-https://github.com/user-attachments/assets/85a244f3-0aae-4531-9276-96f7eed358d6
-
-
-
-https://github.com/user-attachments/assets/8a0bd20d-c9b4-485b-9eb4-cb75a24145b3
-
