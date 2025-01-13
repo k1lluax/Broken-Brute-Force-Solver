@@ -31,7 +31,11 @@ The lab is vulnerable due to a logic flaw in its password brute-force protection
    Enter the valid username: wiener
    Enter the valid password: peter
    Choose brute-force mode (1: Username, 2: Password): 2
-   Enter the username to brute-force: carlos
+   Enter the username to b
+
+https://github.com/user-attachments/assets/4dfdb433-960b-4775-a84a-52f044e7c5b7
+
+rute-force: carlos
    Enter the path to the wordlist file: Path\to\wordlist.txt
 
 
